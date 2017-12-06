@@ -8,7 +8,7 @@ scriptedLaunchOpts += ("-Dplugin.version=" + version.value)
 
 organization := "org.scala-sbt.plugins"
 
-version := "0.9-SNAPSHOT"
+version := "0.9-RC1"
 
 sbtPlugin := true
 
